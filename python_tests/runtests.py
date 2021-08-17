@@ -4,7 +4,7 @@ import os;
 DICTIONARY = b'abcdefghijklmnopqrstuvwxyz'
 key_sizes = [ 1, 10, 100, 1000, 10000, 100000 ]
 file_sizes = [ 1, 10, 100, 1000, 10000, 100000 ]
-command = "./bvernan"
+command = "./bvernam"
 
 experiments = [ (lambda : DICTIONARY,1,len(DICTIONARY)),\
                 (lambda : DICTIONARY,1,10*len(DICTIONARY)),\
