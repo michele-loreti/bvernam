@@ -1,6 +1,5 @@
-//
-// Created by Michele Loreti on 13/08/21.
-//
+// Copyright (c) 2021.
+// BVernam: a simple program for one-time-pad enccription.
 #include <stdlib.h>
 #include "bvernam.h"
 

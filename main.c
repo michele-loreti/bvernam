@@ -1,3 +1,5 @@
+// Copyright (c) 2021.
+// BVernam: a simple program for one-time-pad enccription.
 #include <stdio.h>
 #include "bvernam.h"
 
