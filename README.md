@@ -48,5 +48,11 @@ To run program open a console and execute:
 A python script is available to test the program on different examples. The script, named `runtests.py`, can be found in 
 the folder `python_tests`.
 
+To run the test the following command can be used:
+
+`python3 ./python_tests/runtests.py`
+
+
+
 
 
